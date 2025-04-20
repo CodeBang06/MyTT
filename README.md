@@ -359,7 +359,8 @@ plt.plot(up,label='唐安奇-上轨');     plt.plot(mid,label='唐安奇-中轨'
 
 ----------------------------------------------------
 
-![春风微码](https://github.com/user-attachments/assets/f8b658eb-c598-46a3-b5f4-5f928b2af1c9)
+![风吹麦浪](https://github.com/user-attachments/assets/965b8d3b-660d-4855-a895-28766aa9f013)
+
 
 > #### 微信扫码加入宽友量化技术交流群，一起在研究中量化成长
 

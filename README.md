@@ -361,9 +361,9 @@ plt.plot(up,label='唐安奇-上轨');     plt.plot(mid,label='唐安奇-中轨'
 
 ----------------------------------------------------
 
-![加入群聊](https://github.com/mpquant/Ashare/blob/main/img/qrcode.png) 
+![春风微码](https://github.com/user-attachments/assets/f8b658eb-c598-46a3-b5f4-5f928b2af1c9)
 
-> #### 股市程序化交易大群,数字货币量化交易探讨, 圈内大咖量化策略分享
+> #### 微信扫码加入宽友量化技术交流群，一起来量化成长
 > #### 全是干货，无闲聊 ，物以类聚,人以群分，一起感受思维碰撞的力量!
 
 

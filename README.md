@@ -353,20 +353,15 @@ plt.plot(up,label='唐安奇-上轨');     plt.plot(mid,label='唐安奇-中轨'
 
 ----------------------------------------------------
 ### 团队其他开源项目 - 如果本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
-* [MyTT 通达信,同花顺公式指标，文华麦语言的python实现](https://github.com/mpquant/MyTT)
+* [MyTT 通达信,同花顺公式指标，文华麦语言的python实现](https://github.com/CodeBang06/MyTT)
 
-* [Ashare最简股票行情数据接口API,A股行情完全开源免费](https://github.com/mpquant/Ashare)
-
-
+* [Ashare最简股票行情数据接口API,A股行情完全开源免费](https://github.com/CodeBang06/Ashare)
 
 ----------------------------------------------------
 
 ![春风微码](https://github.com/user-attachments/assets/f8b658eb-c598-46a3-b5f4-5f928b2af1c9)
 
-> #### 微信扫码加入宽友量化技术交流群，一起来量化成长
-> #### 全是干货，无闲聊 ，物以类聚,人以群分，一起感受思维碰撞的力量!
-
-
+> #### 微信扫码加入宽友量化技术交流群，一起在研究中量化成长
 
 ----------------------------------------------------
 ## Star 历史
